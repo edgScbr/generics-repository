@@ -2,10 +2,10 @@ package com.company;
 
 public interface RepositoryActions<E> {
 
-    public boolean addElement(E repositoryElement);
+    boolean addElement(E repositoryElement);
 
-    public int countElements();
+    int countElements();
 
-    public RepositoryElement findElement(int index);
+    RepositoryElement findElement(int index);
 
 }

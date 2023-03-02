@@ -1,7 +1,7 @@
 package com.company;
 
 
-public abstract class RepositoryElement {
+public abstract class RepositoryElement{
 
     private String name;
 

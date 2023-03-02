@@ -16,4 +16,6 @@ public class Product extends RepositoryElement {
                 " stock=" + stock +
                 '}';
     }
+
+
 }
